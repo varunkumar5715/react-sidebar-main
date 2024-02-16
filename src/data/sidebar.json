@@ -1,0 +1,173 @@
+[
+    {
+        "title": "C&l lab",
+        "icon": "bi-gear-fill",
+        "position" : 1,
+        "path" : "/cllab",
+        "childrens": [
+            {
+                "title": "people",
+                "icon": "bi-house-fill",
+                "path": "/people"
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/Research"
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/Announcement"
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact"
+            }
+        ]
+    },
+    
+    {
+        "title": "Hearing-aid",
+        "icon": "bi-gear-fill",
+        "position" : 2,
+        "path" : "/homepage",
+        "childrens": [
+            {
+                "title": "people",
+                "icon": "bi-house-fill",
+                "path": "/people"
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/about"
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/about"
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill"
+            }
+        ]
+    },
+    
+    {
+        "title": "Tinnitus",
+        "icon": "bi-gear-fill",
+        "position" : 3,
+        "path" : "/about",
+        "childrens": [
+            {
+                "title": "people",
+                "icon": "bi-house-fill",
+                "path": "/"
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/about"
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/about"
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill"
+            }
+        ]
+    },
+    
+    {
+        "title": "V&D lab",
+        "icon": "bi-gear-fill",
+        "position" : 4,
+        "path" : "/vdlab",
+        "childrens": [
+            {
+                "title": "people",
+                "icon": "bi-house-fill",
+                "path": "/"
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/about"
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/about"
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill"
+            }
+        ]
+    },
+    
+    {
+        "title": "Vestibular",
+        "icon": "bi-gear-fill",
+        "position" : 5,
+        "path" : "/vestibular",
+        "childrens": [
+            {
+                "title": "people",
+                "icon": "bi-house-fill",
+                "path": "/"
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/about"
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/about"
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill"
+            }
+        ]
+    },
+    
+    {
+        "title": "Psychoacoustic",
+        "icon": "bi-gear-fill",
+        "position" : 6,
+        "path" : "/psycho",
+        "childrens": [
+            {
+                "title": "people",
+                "icon": "bi-house-fill",
+                "path": "/"
+            },
+            {
+                "title": "Research",
+                "icon": "bi-info-circle-fill",
+                "path": "/about"
+            },
+            {
+                "title": "Announcement",
+                "icon": "bi-phone-fill",
+                "path":"/about"
+           },
+            {
+                "title": "Contact",
+                "icon": "bi-question-circle-fill"
+            }
+        ]
+    }
+    
+           
+        ]
+    
