@@ -3,7 +3,7 @@
         "title": "C&l lab",
         "icon": "bi-gear-fill",
         "position" : 1,
-        "path" : "/cllab",
+        "path" : "/",
         "childrens": [
             {
                 "title": "people",
@@ -51,7 +51,8 @@
            },
             {
                 "title": "Contact",
-                "icon": "bi-question-circle-fill"
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact"
             }
         ]
     },
@@ -79,7 +80,8 @@
            },
             {
                 "title": "Contact",
-                "icon": "bi-question-circle-fill"
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact"
             }
         ]
     },
@@ -107,7 +109,8 @@
            },
             {
                 "title": "Contact",
-                "icon": "bi-question-circle-fill"
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact"
             }
         ]
     },
@@ -135,7 +138,8 @@
            },
             {
                 "title": "Contact",
-                "icon": "bi-question-circle-fill"
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact"
             }
         ]
     },
@@ -163,7 +167,8 @@
            },
             {
                 "title": "Contact",
-                "icon": "bi-question-circle-fill"
+                "icon": "bi-question-circle-fill",
+                "path":"/Contact"
             }
         ]
     }

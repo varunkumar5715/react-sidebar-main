@@ -1,0 +1,48 @@
+[
+  {
+    "people": {
+      "advisors": [
+        {
+          "name": "Dr. Suma R",
+          "designation": "Principle",
+          "areaOfInterest": "Cognition, language, bilingualism",
+          "path": "/people/suma.jpg"
+          
+        },
+        {
+          "name": "Dr. Hemanth N",
+          "designation": "Professor",
+          "areaOfInterest": "Cognition, auditory",
+          "path": "/people/hemanth.jpg"
+        }
+      ],
+      "externalAdvisors": [
+        {
+          "name": "Mrs. Sankalpa",
+          "designation": "Assistant Professor",
+          "areaOfInterest": "Cognition, Electrophysiology",
+          "path": "/people/sankalpa.jpg"
+          
+        }
+      ],
+      "researchScholars": [
+        {
+          "name": "Mr. Jeevan",
+          "areaOfInterest": "Cognition, Electrophysiology",
+          "topic": "How humans acquire, process, and use language in various contexts, as well as understanding the cognitive mechanisms underlying language comprehension, production, and representation",
+          "path": "/people/jeevan.jpg"
+        }
+      ],
+      "students": [
+        
+        "Manasa, II Msc (Audiology)",
+        "Rithvik. II Msc (Speech and Language pathology)"
+      ],
+      "alumni": [
+        "Raju, Hearing wellness clinic, HD Kote",
+        "Varshini, Research scholar, Mysure"
+      ]
+    }
+  }
+]
+  

@@ -1,0 +1,37 @@
+[
+    {        
+        "publications":  [
+            {
+                "year":"2024",
+                "data": [
+                    "Hemanth N, Jeevan, G Srikar, P (2024). Optimising Click and 500 Hz Tone-burst ABR Averaging Using Signal to Noise Ratio Criterion in Adults With and Without Hearing Loss. Acta Scientific Otolaryngology 6 (2). (in press).",
+                    "Apeksha K, Aprana S, Hemanth N (2024). Effect of Short-Term Yoga Training on Cervical and Ocular Vestibular Evoked Myogenic Potentials in Healthy Adults. Indian Journal of Otology (in Press).",
+                    "Srikar N, Varalakshmi, S (2024). Development and Validation of Self-management Manual for Acute Tinnitus. Indian Journal of Otolaryngology and Head & Neck Surgery (in press)."
+                ] 
+            },
+            {
+                "year":"2023",
+                "data": [
+                    "Varalakshmi N, Jeevan, G Srikar, P (2024). Optimising Click and 500 Hz Tone-burst ABR Averaging Using Signal to Noise Ratio Criterion in Adults With and Without Hearing Loss. Acta Scientific Otolaryngology 6 (2). (in press).",
+                    "Srikar K, Aprana S, Hemanth N (2024). Effect of Short-Term Yoga Training on Cervical and Ocular Vestibular Evoked Myogenic Potentials in Healthy Adults. Indian Journal of Otology (in Press).",
+                    "Aprana N, Varalakshmi, S (2024). Development and Validation of Self-management Manual for Acute Tinnitus. Indian Journal of Otolaryngology and Head & Neck Surgery (in press)."
+
+                ]
+            },
+            {
+                "year":"2022",
+                "data": [
+                    "Varalakshmi N, Jeevan, G Srikar, P (2024). Optimising Click and 500 Hz Tone-burst ABR Averaging Using Signal to Noise Ratio Criterion in Adults With and Without Hearing Loss. Acta Scientific Otolaryngology 6 (2). (in press).",
+                    "Srikar K, Aprana S, Hemanth N (2024). Effect of Short-Term Yoga Training on Cervical and Ocular Vestibular Evoked Myogenic Potentials in Healthy Adults. Indian Journal of Otology (in Press).",
+                    "Aprana N, Varalakshmi, S (2024). Development and Validation of Self-management Manual for Acute Tinnitus. Indian Journal of Otolaryngology and Head & Neck Surgery (in press)."
+                ] 
+            }
+        ],
+        "news" : [ "news1", "news2", "news3" ],
+        "links" : ["link1", "link2", "link3"]
+    }
+   
+  
+]
+
+

@@ -1,13 +1,14 @@
-// ResearchPage.js
-import React from "react";
+import React from 'react'
+import Layout from '../components/layout/Layout'
+import Research from '../components/research/Research'
 
-const ResearchPage = () => {
+export default function ResearchPage() {
+
   return (
-    <div>
-      <h1>Research Page</h1>
-   
-    </div>
-  );
-};
-
-export default ResearchPage;
+    
+        <Layout>
+            <Research/>
+        </Layout>
+     
+  )
+}
