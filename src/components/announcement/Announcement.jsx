@@ -1,6 +1,10 @@
-import React from 'react';
+import react, { useContext } from 'react';
+
 
 export default function Announcement({ heading, path }) {
+
+
+
   return (
     <div>
       <h3>{heading}</h3>
@@ -13,17 +17,3 @@ export default function Announcement({ heading, path }) {
 
 
 
-
-
-// import React, { createContext, useContext } from 'react';
-
-// const AnnouncementContext = createContext();
-
-// export const useAnnouncement = () => useContext(AnnouncementContext);
-
-
-// export const AnnouncementProvider = ({ children, announcements }) => (
-//   <AnnouncementContext.Provider value={announcements}>
-//     {children}
-//   </AnnouncementContext.Provider>
-// );

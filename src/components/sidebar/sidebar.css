@@ -28,3 +28,38 @@
   padding-top: 5px;
   margin-bottom: 100px;
 }
+
+.sidebar-item {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+.sidebar-item.open {
+  background-color: #555;
+}
+
+.sidebar-title {
+  display: flex;
+  align-items: center;
+}
+
+.sidebar-content {
+  padding-left: 20px;
+}
+
+.sidebar-item.plain {
+  text-decoration: none;
+  color: white;
+}
+
+.toggle-btn {
+  cursor: pointer;
+  margin-left: auto;
+}
+
+/* Styling for icon */
+.sidebar-item i {
+  margin-right: 5px;
+}

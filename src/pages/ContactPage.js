@@ -8,8 +8,10 @@ export default function ContactPage() {
   return (
 
     <Layout>
-      <Contact pos="0" />
+      <Contact />
     </Layout>
 
   )
 }
+
+

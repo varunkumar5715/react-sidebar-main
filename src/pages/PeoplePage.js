@@ -57,13 +57,15 @@
 
 
 
-import React from 'react';
+import React, { useContext } from 'react';
 import Layout from '../components/layout/Layout';
 import peopleData from '../data/people.json';
 import Person from '../components/people/Person';
+import PositionContext from '../store/RouteContextProvider';
 
 export default function People() {
-  const { advisors, externalAdvisors, researchScholars, students, alumni } = peopleData[0].people;
+  const {current} = useContext(PositionContext)
+  const { advisors, externalAdvisors, researchScholars, students, alumni } = peopleData[current-1];
 
   return (
     <div>
