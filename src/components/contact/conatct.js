@@ -36,10 +36,10 @@ export default function Contact() {
 
 
 
-    const name = contact[current].name
-    const designation = contact[current].designation
-    const address =contact[current].address
-    const email =contact[current].email
+    const name = contact[current-1].name
+    const designation = contact[current-1].designation
+    const address =contact[current-1].address
+    const email =contact[current-1].email
     const email1 = "mailto:" + email;
   return (
     <div>

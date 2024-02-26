@@ -36,7 +36,7 @@ function Header() {
   const pathSegments = location.pathname.split('/');
   let labName = 'Home'; // Default lab name
 
-  // Ensure current position is within range and SidebarData is not empty
+  
   if (current > 0 && current <= SidebarData.length) {
     labName = SidebarData[current - 1].title; // Adjust for zero-based indexing
   }

@@ -1,12 +1,11 @@
 .sidebar {
-  width: 260px;
+  width: 250px; /* Default width for desktop */
   flex-shrink: 0;
   background-color: rgba(22, 22, 22, 1);
   height: 100vh;
   overflow: auto;
-  color: #fff
+  color: #fff;
 }
-
 
 .sidebar-item {
   padding: .75em 1em;
@@ -21,7 +20,7 @@
 }
 
 .logo {
-  margin: 50px
+  margin: 30px;
 }
 
 .sidebar-item-plane {
@@ -62,4 +61,15 @@
 /* Styling for icon */
 .sidebar-item i {
   margin-right: 5px;
+}
+
+/* Media query for mobile devices */
+@media screen and (max-width: 768px) {
+  .sidebar {
+    width: 200px; /* Adjusted width for mobile */
+  }
+
+  .sidebar-item {
+    padding: .5em 1em; /* Adjusted padding for mobile */
+  }
 }
