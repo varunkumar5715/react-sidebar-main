@@ -30,7 +30,7 @@ export default function Research() {
         {links.map((link, index) => (
           <div>
             <li key={index}>{link.title}</li>
-            <a href={link.path}>https://play.google.com/store/apps/details?id=com.rhythmic_breathing.app&hl=en_IN&gl=U</a>
+            <a href={link.path} target="_blank">https://play.google.com/store/apps/details?id=com.rhythmic_breathing.app&hl=en_IN&gl=U</a>
           </div>
         ))}
       </ul>
