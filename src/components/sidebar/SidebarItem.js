@@ -62,7 +62,7 @@ export default function SidebarItem({ item }) {
                 <span>
                     <a href={item.path} className="sidebar-item plain" style={{ color: "white" }} onClick={handleClick}>
                         {item.icon && <i className={item.icon}></i>}
-                        {item.title} {current}
+                        {item.title} 
                     </a>
                 </span>
                 <i className="bi-chevron-down toggle-btn" onClick={() => setOpen(!open)}></i>

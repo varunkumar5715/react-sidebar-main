@@ -26,12 +26,12 @@ function App() {
       errorElement: <PageNotFound />
     },
     {
-      path: "/homepage",
+      path: "/Hearing-aid",
       element: <HearingaidPage />,
       errorElement: <PageNotFound />,
     },
     {
-      path: "/about",
+      path: "/Tinnitus",
       element: <TinnitusPage />,
       errorElement: <PageNotFound />,
     },
@@ -46,7 +46,7 @@ function App() {
       errorElement: <PageNotFound />,
     },
     {
-      path: "/psycho",
+      path: "/Psychoacoustic",
       element: <PsychoacousticPage />,
       errorElement: <PageNotFound />,
     },

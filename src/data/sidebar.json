@@ -36,7 +36,7 @@
         "title": "Hearing-aid",
         "icon": "bi-gear-fill",
         "position" : 2,
-        "path" : "/homepage",
+        "path" : "/Hearing-aid",
         "childrens": [
             {
                 "title": "people",
@@ -69,7 +69,7 @@
         "title": "Tinnitus",
         "icon": "bi-gear-fill",
         "position" : 3,
-        "path" : "/about",
+        "path" : "/Tinnitus",
         "childrens": [
             {
                 "title": "people",
@@ -168,31 +168,31 @@
         "title": "Psychoacoustic",
         "icon": "bi-gear-fill",
         "position" : 6,
-        "path" : "/psycho",
+        "path" : "/psychoacoustic",
         "childrens": [
             {
                 "title": "people",
                 "icon": "bi-house-fill",
                 "path": "/people",
-                "position":5
+                "position":6
             },
             {
                 "title": "Research",
                 "icon": "bi-info-circle-fill",
                 "path": "/Research",
-                "position":5
+                "position":6
             },
             {
                 "title": "Announcement",
                 "icon": "bi-phone-fill",
-                "path":"/about",
-                "position":5
+                "path":"/Announcement",
+                "position":6
            },
             {
                 "title": "Contact",
                 "icon": "bi-question-circle-fill",
                 "path":"/Contact",
-                "position":5
+                "position":6
             }
         ]
     }

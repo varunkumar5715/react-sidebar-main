@@ -1,5 +1,5 @@
 import Header from './Header';
-import Footer from './Footer';
+// import Footer from './Footer';
 import "./Main.css"
 
 
@@ -10,7 +10,7 @@ export default function Main(props){
             <div className='body'>    
                {props.children}
                </div> 
-            <Footer className="footer"/>  
+            {/* <Footer className="footer"/>   */}
                         
         </div>
     )
